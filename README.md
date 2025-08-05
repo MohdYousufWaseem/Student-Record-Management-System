@@ -33,6 +33,6 @@ This project is ideal for understanding core Java concepts such as:
 1. Clone this repository or download the `.java` files.
 2. Compile and run the `Main.java`:
 
-bash
+```bash
 javac Main.java Student.java
 java Main
